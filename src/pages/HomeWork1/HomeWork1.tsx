@@ -12,7 +12,7 @@ export const HomeWork1 = () => {
   };
   return (
     <div className={style.diceContainer}>
-      <h1 className={style.title}>Игральный кубик</h1>
+      <h1 className={style.title}>Игральная кость</h1>
       <div className={onAnimation ? style.diceAnimated : style.dice}>
         {dicesSide}
       </div>
