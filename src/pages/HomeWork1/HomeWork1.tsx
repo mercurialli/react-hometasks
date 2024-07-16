@@ -1,4 +1,4 @@
-import style from "./hw.module.css";
+import style from "./Homework1.module.css";
 import { useState } from "react";
 
 export const HomeWork1 = () => {
